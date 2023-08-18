@@ -1,6 +1,6 @@
 <h3 align="center">An application made for tracking workout and exploring new exercises</h3>
 
-<h3 align="left">Connect with me:</h3>
+<img src="assets/scr.png" alt="Italian Trulli">
 <p align="left">
 </p>
 
